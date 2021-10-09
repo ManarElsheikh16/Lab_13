@@ -1,0 +1,6 @@
+D:\FCI_BIOINFORMATICS\front-end ITI\Lab 13 sol\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll.config
+D:\FCI_BIOINFORMATICS\front-end ITI\Lab 13 sol\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll
+D:\FCI_BIOINFORMATICS\front-end ITI\Lab 13 sol\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.pdb
+D:\FCI_BIOINFORMATICS\front-end ITI\Lab 13 sol\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.dll
+D:\FCI_BIOINFORMATICS\front-end ITI\Lab 13 sol\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.pdb
+D:\FCI_BIOINFORMATICS\front-end ITI\Lab 13 sol\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.csprojResolveAssemblyReference.cache
